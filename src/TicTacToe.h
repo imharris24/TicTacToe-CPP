@@ -6,7 +6,6 @@ private:
 	bool GameOver; // tells whether game is over or not
 public:
 	void ResetBoard(); // print all values in board according to index
-	void PrintValues(); // print values in the board
 	void PrintBoard(); // print board
 	bool BoardIsFull(); // returns true while board is full
 	void InputPlayerOne(); // get input from player 1
